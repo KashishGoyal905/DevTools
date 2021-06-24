@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: linear-gradient(to right,orange,white,green);
+}
+p{
+    text-align:center;
+    font-size:30px;
+    color: rgb(4, 0, 255);
+}
